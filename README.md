@@ -87,6 +87,13 @@ def download(urls):
 	print("图片下载完成")
 ```
 
+最后来看一下执行的效果吧
+-----------------
+下面爬一些 `林允儿` `女神` 的图片
+
+![image](https://github.com/1jone/Spider-StarPicter/blob/master/images/lyr1.PNG)
+
+![image](https://github.com/1jone/Spider-StarPicter/blob/master/images/lyr2.PNG)
 
 
 
