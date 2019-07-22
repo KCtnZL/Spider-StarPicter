@@ -5,10 +5,10 @@
 ------------------------
 ![image](https://github.com/1jone/Spider-StarPicter/blob/master/images/start1.PNG)
 
-这个网站收录了很多明星的照片，写真、生活、影视照（请绝对放心，照片完全'社会主义核心价值观'）
+这个网站收录了很多明星的照片，写真、生活、影视照（请绝对放心，照片完全`社会主义核心价值观`）
 ----------------------
 
-'''Python
+```Python
 import math
-'''
+```
 
