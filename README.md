@@ -1,2 +1,5 @@
-# 明星网图片下载
-该代码不够完善，但是想下载一些明星的图片还是可以的，前提是明星网上有这位明星的图片。爬取过于频繁可是会被服务器强制断开连接的哟！！！
+####明星网图片下载###
+
+啥也不说，先亮出网页的页面
+![image](https://github.com/1jone/Spider-StarPicter/blob/master/images/start1.PNG)
+
