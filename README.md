@@ -96,7 +96,8 @@ def download(urls):
 ![image](https://github.com/1jone/Spider-StarPicter/blob/master/images/lyr2.PNG)
 
 
-
+提示：不要过高频率爬取该网站（一是对网站服务器有影响；另外过度爬取但是不是用IP代理池的话会被记录IP地址，限制访问）
+---------------
 
 
 
